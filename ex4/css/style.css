@@ -1,0 +1,7 @@
+.nav-item {
+    display: flex;
+}
+.fa {
+    font-size: 15px;
+    margin-top: 13px;
+}

@@ -1,0 +1,24 @@
+#contenedor {
+    margin-top: 60px;
+}
+.fa-lock {
+    font-size: 80px;
+    color: grey;
+}
+.card-header {
+    background-color: white;
+}
+.card-body {
+    background-color: rgb(185, 185, 185);
+}
+.btn-info {
+    width: 100%;
+}
+body {
+    background-image:url("../img/1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+html {
+    height: 100%
+}
